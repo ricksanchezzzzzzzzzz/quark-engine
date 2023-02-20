@@ -5,6 +5,7 @@
     <a href="https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/">
         <img alt="HITB" src="https://img.shields.io/badge/HITB-Lockdown%20002-red">
     </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fricksanchezzzzzzzzzz%2Fquark-engine?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fricksanchezzzzzzzzzz%2Fquark-engine.svg?type=shield"/></a>
     <a href="https://www.youtube.com/watch?v=SOH4eqrv9_g&ab_channel=ROOTCONHackingConference">
         <img alt="rootcon" src="https://img.shields.io/badge/ROOTCON-2020-orange">
     </a>
@@ -31,6 +32,9 @@
     </a><br>
     <img src="https://i.imgur.com/8GwkWei.png"/>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fricksanchezzzzzzzzzz%2Fquark-engine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fricksanchezzzzzzzzzz%2Fquark-engine?ref=badge_large)
 
 # Quark Script - Dig Vulnerabilities in the BlackBox
 
